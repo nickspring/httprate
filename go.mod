@@ -1,4 +1,4 @@
-module github.com/go-chi/httprate
+module github.com/nickspring/httprate
 
 go 1.17
 
